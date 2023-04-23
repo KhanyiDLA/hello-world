@@ -1,2 +1,1 @@
-# hello-world
-learning more about github
+I am Khanyisile Dlamini from Orange Farm and currently learning to code.
